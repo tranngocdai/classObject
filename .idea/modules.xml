@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Acc/Acc.iml" filepath="$PROJECT_DIR$/Acc/Acc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fan/Fan.iml" filepath="$PROJECT_DIR$/Fan/Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticMethod/StaticMethod.iml" filepath="$PROJECT_DIR$/StaticMethod/StaticMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Write/Write.iml" filepath="$PROJECT_DIR$/Write/Write.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
